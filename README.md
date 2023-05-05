@@ -1,11 +1,11 @@
-<h1>&#128075; Olá, eu sou o Rafa !</h1>
+<h1>&#128075; Olá, eu sou o Ceci!</h1>
 
 <h3>Sobre mim:</h3>
 <ul>
-    <li>Professor de Programação 💡</li>
-    <li>Programador Front End 💻</li>
+    <li>Aluno de Programação 💡</li>
+    <li>I like draw</li>
     <li>Apaixonado por Arte e Design 🖌</li>
-    <li>Formado em Banco de Dados 🗄</li>
+    <li>:D</li>
 </ul>
     
 ##
